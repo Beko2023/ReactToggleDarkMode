@@ -1,28 +1,5 @@
-# co7184fb792f661b3139a3b29
+This is another simple practice into sharing data from parent to child components using Props enable some conditional rendering with the push of a dark mode button.
 
-Quick start:
+![image](https://github.com/user-attachments/assets/02454ac6-6b33-4a37-afd3-a3833836c5a7)
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+![image](https://github.com/user-attachments/assets/dff3f952-5dee-48f4-999b-2c3544152054)
